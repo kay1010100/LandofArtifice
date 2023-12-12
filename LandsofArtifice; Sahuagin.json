@@ -46,7 +46,8 @@
 						],
 						"count": 1
 					},
-					"common": true
+					"common": true,
+					"sahuagin": true
 				}
 			],
 			"entries": [
@@ -107,7 +108,7 @@
 				{
 					"innate": {
 						"1": [
-							"absorb elements"
+							"absorb elements|XGE"
 						]
 					}
 				}
