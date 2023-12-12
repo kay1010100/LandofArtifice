@@ -118,7 +118,7 @@
 					"type": "entries",
 					"name": "Elemental thoughness",
 					"entries": [
-						"You get {@spell absorb elements|XGE} once per long rest as innate casting"
+						"You can cast the {@spell absorb elements|XGE} spell once as a 1st-level spell. You must finish a long rest to cast these spells again with this trait. Wisdom is your spellcasting ability for these spells."
 					]
 				}
 			]
@@ -139,9 +139,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Resistaince",
+					"name": "Damage Resistance",
 					"entries": [
-						"You have resistaince to lightning damage"
+						"You have resistance to the lightning damage type"
 					]
 				}
 			]
