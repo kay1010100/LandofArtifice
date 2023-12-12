@@ -1,0 +1,135 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "LandsofArtifice",
+				"abbreviation": "LoA",
+				"full": "Lands of Artifice",
+				"authors": [
+					"Lands of Artifice"
+				],
+				"convertedBy": [],
+				"version": "0.8",
+				"color": "cc0000",
+				"targetSchema": "1.1.1"
+			}
+		],
+		"dateAdded": 1702320937,
+		"dateLastModified": 1702320937,
+		"_dateLastModifiedHash": "d235ce8c84"
+	},
+	"race": [
+		{
+			"name": "Sahuagin",
+			"source": "LoA",
+			"page": 0,
+			"ability": [
+				{
+					"con": 2
+				}
+			],
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"swim": 40
+			},
+			"darkvision": 120,
+			"languageProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"elvish",
+							"gnomish",
+							"dwarvish"
+						],
+						"count": 1
+					},
+					"common": true
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Age",
+					"entries": [
+						"Sahuagin age the same as humans."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Sahuagin are about the same size as humans. Your size is Medium."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Natural Scales",
+					"entries": [
+						"When you are not wearing any armor, your AC equals 12."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Limited Amphibiousness",
+					"entries": [
+						"You can breathe air and water, but you need to be submerged in water at least once every 4 hours to avoid suffocating."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Sahuagin and one language known by the people your clan trades with, most often Elvish, Gnomish, or Dwarvish."
+					]
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 80
+			}
+		}
+	],
+	"subrace": [
+		{
+			"name": "Kalmte",
+			"raceName": "Kalmte",
+			"source": "LoA",
+			"raceSource": "LoA",
+			"ability": [
+				{
+					"wis": 1
+				}
+			],
+			"additionalSpells": [
+				{
+					"innate": {
+						"1": {
+							"rest": {
+								"1": [
+									"absorb elements"
+								]
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Storm",
+			"raceName": "Storm",
+			"source": "LoA",
+			"raceSource": "LoA",
+			"ability": [
+				{
+					"str": 1
+				}
+			],
+			"resist": [
+				"lightning"
+			]
+		}
+	]
+}
