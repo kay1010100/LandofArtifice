@@ -106,13 +106,9 @@
 			"additionalSpells": [
 				{
 					"innate": {
-						"1": {
-							"rest": {
-								"1": [
-									"absorb elements"
-								]
-							}
-						}
+						"1": [
+							"absorb elements"
+						]
 					}
 				}
 			]
