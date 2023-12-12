@@ -41,14 +41,6 @@
 			],
 			"languageProficiencies": [
 				{
-					"choose": {
-						"from": [
-							"elvish",
-							"gnomish",
-							"dwarvish"
-						],
-						"count": 1
-					},
 					"common": true,
 					"sahuagin": true
 				}
