@@ -95,8 +95,8 @@
 	"subrace": [
 		{
 			"name": "Kalmte",
-			"raceName": "Kalmte",
 			"source": "LoA",
+			"raceName": "Sahuagin",
 			"raceSource": "LoA",
 			"ability": [
 				{
@@ -119,8 +119,8 @@
 		},
 		{
 			"name": "Storm",
-			"raceName": "Storm",
 			"source": "LoA",
+			"raceName": "Sahuagin",
 			"raceSource": "LoA",
 			"ability": [
 				{
