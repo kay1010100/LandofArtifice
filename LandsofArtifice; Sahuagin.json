@@ -9,7 +9,7 @@
 					"Lands of Artifice"
 				],
 				"convertedBy": [],
-				"version": "0.11",
+				"version": "0.12",
 				"color": "cc0000",
 				"targetSchema": "1.1.1"
 			}
@@ -36,6 +36,9 @@
 				"swim": 40
 			},
 			"darkvision": 120,
+			"traitTags": [
+				"Natural Armor"
+			],
 			"languageProficiencies": [
 				{
 					"choose": {
@@ -47,7 +50,7 @@
 						"count": 1
 					},
 					"common": true,
-					"sahuagin": true
+					"other": true
 				}
 			],
 			"entries": [
