@@ -50,7 +50,7 @@
 						"count": 1
 					},
 					"common": true,
-					"other": true
+					"sahuagin": true
 				}
 			],
 			"entries": [
@@ -120,6 +120,15 @@
 					},
 					"ability": "wis"
 				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Elemental thoughness",
+					"entries": [
+						"You get {@spell absorb elements|XGE} once per long rest as innate casting"
+					]
+				}
 			]
 		},
 		{
@@ -134,6 +143,15 @@
 			],
 			"resist": [
 				"lightning"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "resistaince",
+					"entries": [
+						"You have resistaince to lightning damage"
+					]
+				}
 			]
 		}
 	]
