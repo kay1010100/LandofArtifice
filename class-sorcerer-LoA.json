@@ -1,4 +1,23 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "LandsofArtifice",
+				"abbreviation": "LoA",
+				"full": "Lands of Artifice",
+				"authors": [
+					"kay1010100"
+				],
+				"convertedBy": [],
+				"version": "0.15",
+				"color": "cc0000",
+				"targetSchema": "1.1.1"
+			}
+		],
+		"dateAdded": 1702320937,
+		"dateLastModified": 1702320937,
+		"_dateLastModifiedHash": "d235ce8c84"
+	},
 	"class": [
 		{
 			"name": "Sorcerer",
@@ -16,12 +35,6 @@
 			"spellcastingAbility": "cha",
 			"casterProgression": "full",
 			"cantripProgression": [
-				4,
-				4,
-				4,
-				5,
-				5,
-				5,
 				5,
 				5,
 				5,
@@ -31,11 +44,17 @@
 				6,
 				6,
 				6,
-				6,
-				6,
-				6,
-				6,
-				6
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7
 			],
 			"spellsKnownProgression": [
 				2,
@@ -158,61 +177,61 @@
 							0
 						],
 						[
-							2
-						],
-						[
-							3
-						],
-						[
-							4
-						],
-						[
-							5
-						],
-						[
 							6
-						],
-						[
-							7
-						],
-						[
-							8
 						],
 						[
 							9
 						],
 						[
-							10
-						],
-						[
 							11
-						],
-						[
-							12
 						],
 						[
 							13
 						],
 						[
-							14
-						],
-						[
-							15
-						],
-						[
 							16
-						],
-						[
-							17
 						],
 						[
 							18
 						],
 						[
-							19
+							20
 						],
 						[
-							20
+							23
+						],
+						[
+							24
+						],
+						[
+							27
+						],
+						[
+							29
+						],
+						[
+							30
+						],
+						[
+							33
+						],
+						[
+							35
+						],
+						[
+							37
+						],
+						[
+							38
+						],
+						[
+							40
+						],
+						[
+							42
+						],
+						[
+							44
 						]
 					]
 				},
@@ -223,83 +242,83 @@
 					],
 					"rows": [
 						[
-							4,
+							5,
 							2
 						],
 						[
-							4,
+							5,
 							3
 						],
 						[
-							4,
+							5,
 							4
 						],
 						[
-							5,
+							6,
 							5
 						],
 						[
-							5,
+							6,
 							6
 						],
 						[
-							5,
+							6,
 							7
 						],
 						[
-							5,
+							6,
 							8
 						],
 						[
-							5,
+							6,
 							9
 						],
 						[
-							5,
+							6,
 							10
 						],
 						[
-							6,
+							7,
 							11
 						],
 						[
-							6,
+							7,
 							12
 						],
 						[
-							6,
+							7,
 							12
 						],
 						[
-							6,
+							7,
 							13
 						],
 						[
-							6,
+							7,
 							13
 						],
 						[
-							6,
+							7,
 							14
 						],
 						[
-							6,
+							7,
 							14
 						],
 						[
-							6,
+							7,
 							15
 						],
 						[
-							6,
+							7,
 							15
 						],
 						[
-							6,
+							7,
 							15
 						],
 						[
-							6,
+							7,
 							15
 						]
 					]
@@ -1710,7 +1729,7 @@
 			"level": 2,
 			"header": 1,
 			"entries": [
-				"You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest."
+				"You have 6 sorcery points, and you gain more points every time you level up, to a maximum of 44 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest."
 			]
 		},
 		{
