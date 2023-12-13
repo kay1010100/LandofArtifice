@@ -78,6 +78,13 @@
 				},
 				{
 					"type": "entries",
+					"name": "Natural armor (Though Scales)",
+					"entries": [
+						"When you are not wearing any armor, your AC equals 12."
+					]
+				},
+				{
+					"type": "entries",
 					"name": "Shark Telepathy",
 					"entries": [
 						"The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy."
@@ -95,20 +102,6 @@
 					"name": "Size",
 					"entries": [
 						"Sahuagin are about the same size as humans. Your size is Medium."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Natural Scales",
-					"entries": [
-						"When you are not wearing any armor, your AC equals 12."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Limited Amphibiousness",
-					"entries": [
-						"You can breathe air and water, but you need to be submerged in water at least once every 4 hours to avoid suffocating."
 					]
 				},
 				{
