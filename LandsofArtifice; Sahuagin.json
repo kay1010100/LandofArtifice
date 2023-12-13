@@ -39,6 +39,14 @@
 			"traitTags": [
 				"Natural Armor"
 			],
+			"ac": [
+     {
+        "ac": 12,
+        "from": [
+           "natural armor"
+        ]
+     }
+   ],
 			"languageProficiencies": [
 				{
 					"common": true,
