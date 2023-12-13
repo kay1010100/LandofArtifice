@@ -40,17 +40,23 @@
 				"Natural Armor"
 			],
 			"ac": [
-     {
-        "ac": 12,
-        "from": [
-           "natural armor"
-        ]
-     }
-   ],
+				{
+					"ac": 12,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
 			"languageProficiencies": [
 				{
 					"common": true,
 					"sahuagin": true
+				}
+			],
+			"actions": [
+				{
+					"name": "Claws",
+					"description": "You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d4 + your strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
 				}
 			],
 			"entries": [
