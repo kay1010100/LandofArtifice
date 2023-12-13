@@ -9,7 +9,7 @@
 					"kay1010100"
 				],
 				"convertedBy": [],
-				"version": "0.14",
+				"version": "0.15",
 				"color": "cc0000",
 				"targetSchema": "1.1.1"
 			}
@@ -52,7 +52,7 @@
 					"type": "entries",
 					"name": "Claws",
 					"entries": [
-						"You can use your claws to make unarmed strikes. When you hit with them, the strike deals {@damage 1d4 + str} + your strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+						"You can use your claws to make unarmed strikes. When you hit with them, the strike deals {@damage 1d4 + @str} slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
 					]
 				},
 				{
