@@ -9,7 +9,7 @@
 					"kay1010100"
 				],
 				"convertedBy": [],
-				"version": "0.13",
+				"version": "0.14",
 				"color": "cc0000",
 				"targetSchema": "1.1.1"
 			}
@@ -37,15 +37,9 @@
 			},
 			"darkvision": 120,
 			"traitTags": [
-				"Natural Armor"
-			],
-			"ac": [
-				{
-					"ac": 12,
-					"from": [
-						"natural armor"
-					]
-				}
+				"Natural Armor",
+				"Natural Weapon",
+				"Amphibious"
 			],
 			"languageProficiencies": [
 				{
@@ -53,13 +47,42 @@
 					"sahuagin": true
 				}
 			],
-			"actions": [
-				{
-					"name": "Claws",
-					"description": "You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d4 + your strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
-				}
-			],
 			"entries": [
+				{
+					"type": "entries",
+					"name": "Claws",
+					"entries": [
+						"You can use your claws to make unarmed strikes. When you hit with them, the strike deals {@damage 1d4 + str} + your strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Biting jaws",
+					"entries": [
+						"Your fanged bite is a natural weapon, which counts as a simple melee weapon with with you are proficient. Your bite deals {@damage 1d4} damage piercing damage on a hit. When you hit a creature with this attack, your blood frenzy activates for an amount of turns equal to the damage dealt (as if you were submerged in liquid)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Blood frenzy",
+					"entries": [
+						"You have advantage on melee attack rolls against any creature that doesn't have all it's hit points, so long as you are both submerged in liquid or standing in rain."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Limited Amphibiousness",
+					"entries": [
+						"You can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Shark Telepathy",
+					"entries": [
+						"The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy."
+					]
+				},
 				{
 					"type": "entries",
 					"name": "Age",
