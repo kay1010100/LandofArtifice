@@ -26,6 +26,12 @@
 			"ability": [
 				{
 					"con": 2
+				},
+				{
+					"choose": {
+						"amount": 1,
+						"count": 2
+					}
 				}
 			],
 			"size": [
@@ -129,8 +135,8 @@
 				},
 				{
 					"choose": {
-						"amount": 2,
-						"count": 3
+						"amount": 1,
+						"count": 1
 					}
 				}
 			],
@@ -160,8 +166,8 @@
 				},
 				{
 					"choose": {
-						"amount": 2,
-						"count": 3
+						"amount": 1,
+						"count": 1
 					}
 				}
 			],
