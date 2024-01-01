@@ -26,20 +26,6 @@
 			"ability": [
 				{
 					"con": 2
-				},
-				{
-					"choose": {
-						"from": [
-							"str",
-							"dex",
-							"con",
-							"int",
-							"wis",
-							"cha"
-						],
-						"amount": 1,
-						"count": 2
-					}
 				}
 			],
 			"size": [
@@ -140,12 +126,6 @@
 			"ability": [
 				{
 					"wis": 1
-				},
-				{
-					"choose": {
-						"amount": 1,
-						"count": 1
-					}
 				}
 			],
 			"additionalSpells": [
@@ -171,12 +151,6 @@
 			"ability": [
 				{
 					"str": 1
-				},
-				{
-					"choose": {
-						"amount": 1,
-						"count": 1
-					}
 				}
 			],
 			"resist": [
