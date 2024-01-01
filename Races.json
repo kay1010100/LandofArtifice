@@ -25,21 +25,7 @@
 			"page": 0,
 			"ability": [
 				{
-					"con": 2,
-					"choose": {
-						"weighted": {
-							"weights": [
-								1
-							],
-							"from": [
-								"cha",
-								"dex",
-								"int",
-								"str",
-								"wis"
-							]
-						}
-					}
+					"con": 2
 				},
 				{
 					"choose": {
