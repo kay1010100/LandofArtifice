@@ -25,7 +25,39 @@
 			"page": 0,
 			"ability": [
 				{
-					"con": 2
+					"con": 2,
+					"choose": {
+						"weighted": {
+							"weights": [
+								1
+							],
+							"from": [
+								"cha",
+								"dex",
+								"int",
+								"str",
+								"wis"
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"weights": [
+								2,
+								1
+							],
+							"from": [
+								"cha",
+								"con",
+								"dex",
+								"int",
+								"str",
+								"wis"
+							]
+						}
+					}
 				}
 			],
 			"size": [
@@ -126,6 +158,24 @@
 			"ability": [
 				{
 					"wis": 1
+				},
+				{
+					"choose": {
+						"weighted": {
+							"weights": [
+								2,
+								1
+							],
+							"from": [
+								"cha",
+								"con",
+								"dex",
+								"int",
+								"str",
+								"wis"
+							]
+						}
+					}
 				}
 			],
 			"additionalSpells": [
@@ -151,6 +201,24 @@
 			"ability": [
 				{
 					"str": 1
+				},
+				{
+					"choose": {
+						"weighted": {
+							"weights": [
+								2,
+								1
+							],
+							"from": [
+								"cha",
+								"con",
+								"dex",
+								"int",
+								"str",
+								"wis"
+							]
+						}
+					}
 				}
 			],
 			"resist": [
