@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "LandsofArtifice",
+				"json": "LoA",
 				"abbreviation": "LoA",
 				"full": "Lands of Artifice",
 				"authors": [
@@ -29,6 +29,14 @@
 				},
 				{
 					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
 						"amount": 1,
 						"count": 2
 					}
